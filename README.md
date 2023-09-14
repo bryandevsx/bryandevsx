@@ -19,7 +19,7 @@ Tenho facilidade em me adaptar com equipes e ambientes para poder trabalhar em c
 ### Contate-me em:
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.teixeir2004@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/artur-duarte-5141aa212](https://www.linkedin.com/in/bryan-teixeira-320766269/))
+[![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-teixeira-320766269/)
 
 ##
 
