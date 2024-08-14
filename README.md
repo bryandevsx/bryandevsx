@@ -2,13 +2,17 @@
 
 ##
 
-Meu nome é Bryan Teixeira, tenho 19 anos e moro atualmente em São Paulo, e sou estudante de: Sistemas para Internet na FIAP (Faculdade de Informática e Administração Paulista).
+Meu nome é Bryan Teixeira, sou estudante de TI com interesse em Desenvolvimento Front-end, Back-end, Mobile,
+Banco de Dados e CyberSegurança.
 
-Já passei por outra instituição, Senai, onde cursei Desenvolvimento de Sistemas em 2020 a 2021.
+Desde os 15 anos, aprimoro minhas habilidades
+em várias áreas. Competências em Front-end (HTML, CSS, JavaScript, React), Backend (Node.js), Mobile (React Native, Flutter), Banco de Dados (SQL, MongoDB) e noções
+básicas de CyberSegurança.
 
-Estou sempre buscando aprender o máximo possível com as experiências (projetos, aulas, trabalhos etc...), e evoluir o meu lado profissional para me tornar uma pessoa melhor.
+Proativo e focado em projetos que ampliem minhas
+capacidades, buscando contribuir em ambientes dinâmicos com soluções inovadoras
+e seguras.
 
-Tenho facilidade em me adaptar com equipes e ambientes para poder trabalhar em conjunto, consigo me expressar de forma clara e objetiva e sei lidar com situações problemas da melhor forma possível.
 
 <div>
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
