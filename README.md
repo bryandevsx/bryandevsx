@@ -6,7 +6,7 @@ Meu nome é Bryan Teixeira, sou estudante de TI com interesse em Desenvolvimento
 Banco de Dados e CyberSegurança.
 
 Desde os 15 anos, aprimoro minhas habilidades
-em várias áreas. Competências em Front-end (HTML, CSS, JavaScript, React), Backend (Node.js), Mobile (React Native, Flutter), Banco de Dados (SQL, MongoDB) e noções
+em várias áreas. Competências em Front-end (React, Bootstrap), Back-end (ASP.NET, MVC), Mobile (React Native), Banco de Dados (SQL, MongoDB) e noções
 básicas de CyberSegurança.
 
 Proativo e focado em projetos que ampliem minhas
