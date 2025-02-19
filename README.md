@@ -13,13 +13,6 @@ Proativo e focado em projetos que ampliem minhas
 capacidades, buscando contribuir em ambientes dinâmicos com soluções inovadoras
 e seguras.
 
-
-<div>
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />      
-</div>
-
 ### Contate-me em:
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.teixeir2004@gmail.com)
