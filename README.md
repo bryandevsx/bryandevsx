@@ -15,8 +15,6 @@ About Me:
 
 - 🔐 Interested in building secure and performance-driven systems
 
-##
-
 💼 What I'm Up To 
 - Contributing to open-source and personal projects
 
