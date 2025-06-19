@@ -4,7 +4,7 @@
 
 I'm a passionate Back-End Developer based in Florida, USA — with a strong foundation in Java (Spring Boot), Node.js, and MongoDB. I build scalable, secure, and efficient APIs and systems, always aiming to deliver clean and well-documented code.
 
-##About Me:
+About Me:
 ##
 🎓 Graduated in Internet Systems from FIAP and Técnico em Systems Development from SENAI
 
@@ -18,7 +18,7 @@ I'm a passionate Back-End Developer based in Florida, USA — with a strong foun
 
 ##
 
-##💼 What I'm Up To
+💼 What I'm Up To
 -Contributing to open-source and personal projects
 
 -Expanding cloud skills with AWS & Azure
