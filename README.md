@@ -1,14 +1,28 @@
-### Olá, seja bem vindo ao meu perfil!
+### Hi there, I'm Bryan Teixeira!
 
 ##
 
-Desenvolvedor Back-end e entusiasta de TI, com interesse em Back-end, Front-end, Mobile, Banco de Dados e CyberSegurança. 
+I'm a passionate Back-End Developer based in Florida, USA — with a strong foundation in Java (Spring Boot), Node.js, and MongoDB. I build scalable, secure, and efficient APIs and systems, always aiming to deliver clean and well-documented code.
 
-Desde os 15 anos, aprimoro minhas habilidades em diversas áreas, desenvolvendo projetos que envolvem APIs, banco de dados e integrações. Tenho conhecimento no desenvolvimento de sistemas escaláveis e seguros, utilizando tecnologias como Java (Spring Boot), Node.js, MongoDB, React e React Native. Também possuo experiência com ASP.NET (MVC), SQL, Postman e conceitos básicos de CyberSegurança. 
+About Me:
+🎓 Graduated in Internet Systems from FIAP and Técnico em Systems Development from SENAI
 
-Acredito que evoluir significa trocar conhecimento, enfrentar desafios reais e aprender com bons profissionais para aprimorar minhas habilidades na prática.
+🛠️ Experienced in Java, Node.js, SQL, MongoDB, PHP (Laravel), HTML/CSS/JS
 
-### Contate-me em:
+☁️ Familiar with AWS (S3, Lambda), Jenkins, and Azure
+
+📂 Projects include CRUD systems, RESTful APIs, CEP lookup tools, and full-stack applications
+
+🔐 Interested in building secure and performance-driven systems
+
+💼 What I'm Up To
+Contributing to open-source and personal projects
+
+Expanding cloud skills with AWS & Azure
+
+Improving DevOps knowledge and CI/CD workflows
+
+###  Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.teixeir2004@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-teixeira-320766269)
